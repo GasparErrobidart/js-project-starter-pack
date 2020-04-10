@@ -1,2 +1,2 @@
-# Tri-Tri
-Coding a 3D engine from scratch
+#JS Project starter pack
+This setup includes Typescript, Webpack, TSLint and Babel.

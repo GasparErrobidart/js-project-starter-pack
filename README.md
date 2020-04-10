@@ -1,2 +1,2 @@
-#JS Project starter pack
+# JS Project starter pack
 This setup includes Typescript, Webpack, TSLint and Babel.
